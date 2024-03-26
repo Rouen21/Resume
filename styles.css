@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+}
+
+
+
+
+section {
+    margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+    margin-top: 0;
+}
+
+ul li {
+    padding: 0;
+}
+.box{
+    display: flex;
+    height: 100%;
+}
